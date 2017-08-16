@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Scrolling Technique One</string>
+    <string name="toolbar_title">Scrolling One</string>
+    <string name="toolbar_title_five"></string>
+    <string name="default_text">Default Value</string>
+
+    <string-array name="country_names">
+        <item>AUSTRALIA</item>
+        <item>BANGLADESH</item>
+        <item>BRAZIL</item>
+        <item>ENGLAND</item>
+        <item>GERMANY</item>
+        <item>INDIA</item>
+        <item>IRELAND</item>
+        <item>KENYA</item>
+        <item>NETHERLANDS</item>
+        <item>NEW ZEALAND</item>
+        <item>PAKISTAN</item>
+        <item>SOUTH AFRICA</item>
+        <item>SRI LANKA</item>
+        <item>ZIMBABWE</item>
+    </string-array>
+</resources>
